@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: a1c0c1e0-b480-4b11-2726-8e523b796096
 ---
@@ -46,7 +47,7 @@ Over the course of the semester students are also asked to write two, 1.5–2 pa
 
 Each student will submit one short mid-term paper of 6–7 pages (including notes and bibliography) and one longer final paper (including notes and bibliography) of 12–14 pages.
 
-For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, see the {{< resource_link d8ae01dc-4cde-514c-148e-e1e287e24dee "Assignments" >}} section.
 
 Grading
 -------
