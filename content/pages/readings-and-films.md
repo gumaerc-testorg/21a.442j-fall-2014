@@ -17,17 +17,17 @@ The following books are required reading for this course. These, along with othe
 
 \[AJ\] = Améry, Jean. *At the Mind's Limits: Contemplations by a Survivor on Auschwitz and Its Realities*. Indiana University Press, 2009. ISBN: 9780253211736.
 
-\[AR\] = Arditti, Rita. *Searching for Life: The Grandmothers of the Plaza de Mayo and the Disappeared Children of Argentina*. University of California Press, 1999. ISBN: 9780520215702. \[Preview with {{% resource_link "b138b79e-9b03-4cc2-b3e6-d649a8f58922" "Google Books" %}}\]
+\[AR\] = Arditti, Rita. *Searching for Life: The Grandmothers of the Plaza de Mayo and the Disappeared Children of Argentina*. University of California Press, 1999. ISBN: 9780520215702. \[Preview with [Google Books](http://books.google.com/books?id=upf0Y0N-E54C&pg=PAfrontcover)\]
 
-\[G\] = Gobodo-Madikizela, Pumla. *A Human Being Died That Night: A South African Woman Confronts the Legacy of Apartheid*. Mariner Books, 2004. ISBN: 9780618446599. \[Preview with {{% resource_link "8d918e3b-2b7a-4450-af7b-66b9472c6587" "Google Books" %}}\]
+\[G\] = Gobodo-Madikizela, Pumla. *A Human Being Died That Night: A South African Woman Confronts the Legacy of Apartheid*. Mariner Books, 2004. ISBN: 9780618446599. \[Preview with [Google Books](http://books.google.com/books?id=qWvbjFU0H1kC&pg=PAfrontcover)\]
 
-\[GP\] = Gourevitch, Philip. *We Wish to Inform You That Tomorrow We Will be Killed With Our Families: Stories from Rwanda*. Picador, 1999. ISBN: 9780312243357. \[Preview with {{% resource_link "65fbe392-c820-458d-abaa-b6bc35c66138" "Google Books" %}}\]
+\[GP\] = Gourevitch, Philip. *We Wish to Inform You That Tomorrow We Will be Killed With Our Families: Stories from Rwanda*. Picador, 1999. ISBN: 9780312243357. \[Preview with [Google Books](http://books.google.com/books?id=qPfU4czUQZoC&pg=PAfrontcover)\]
 
-\[H\] = Hopgood, Stephen. *Keepers of the Flame: Understanding Amnesty International*. Cornell University Press, 2006. ISBN: 9780801472510. \[Preview with {{% resource_link "511399dc-bb7d-4f87-903b-97df2722821c" "Google Books" %}}\]
+\[H\] = Hopgood, Stephen. *Keepers of the Flame: Understanding Amnesty International*. Cornell University Press, 2006. ISBN: 9780801472510. \[Preview with [Google Books](http://books.google.com/books?id=V1F6GLXuZFwC&pg=PAfrontcover)\]
 
-\[J\] = James, Erica Caple. *Democratic Insecurities: Violence, Trauma, and Intervention in Haiti*. University of California Press, 2010. ISBN: 9780520260542. \[Preview with {{% resource_link "8aac0447-6c15-41f8-9fd0-3e665239cadb" "Google Books" %}}\]
+\[J\] = James, Erica Caple. *Democratic Insecurities: Violence, Trauma, and Intervention in Haiti*. University of California Press, 2010. ISBN: 9780520260542. \[Preview with [Google Books](http://books.google.com/books?id=6aox-Wm2pI4C&pg=PAfrontcover)\]
 
-\[W\] = Weizman, Eyal. *The Least of All Possible Evils: Humanitarian Violence from Arendt to Gaza*. Verso, 2012. ISBN: 9781844676477. \[Preview with {{% resource_link "9d403614-6be6-4ad9-b003-34a671f4e13a" "Google Books" %}}\]
+\[W\] = Weizman, Eyal. *The Least of All Possible Evils: Humanitarian Violence from Arendt to Gaza*. Verso, 2012. ISBN: 9781844676477. \[Preview with [Google Books](http://books.google.com/books?id=XSj7FTmMVSUC&pg=PAfrontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -55,7 +55,7 @@ Girard, René. "Generative Scapegoating." Chapter 1 in *Violent Origins: Walter 
 
 Freud, Sigmund. "Why War?" In *Aggression, Hostility, and Violence: Nature or Nurture?* Edited by Terry Maple and Douglas W. Matheson. Holt McDougal, 1973. ISBN: 9780030853067.
 
-Manson, Joseph H., and Richard W. Wrangham. "{{% resource_link "71ee6ba9-4acb-4ba3-b2f8-35861b2719db" "Intergroup Aggression in Chimpanzees and Humans" %}}." *Current Anthropology* 32, no. 4. (1991): 369–90.
+Manson, Joseph H., and Richard W. Wrangham. "[Intergroup Aggression in Chimpanzees and Humans](http://www.jstor.org/stable/2743814)." *Current Anthropology* 32, no. 4. (1991): 369–90.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -81,19 +81,19 @@ Arendt, Hannah. "Eichmann in Jerusalem: A Report on the Banality of Evil." Chapt
 Rights Talk in Western Culture: Whose Rights, Whose Rationality?
 {{< tdclose >}}{{< tdopen >}}
 
-"{{% resource_link "a1e60056-98cb-4dcf-90f9-7afcc5ecd179" "The Universal Declaration of Human Rights" %}}," United Nations.
+"[The Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/)," United Nations.
 
 Patterson, Orlando. "Freedom, Slavery, and the Modern Construction of Rights." Chapter 5 in *Historical Change & Human Rights: The Oxford Amnesty Lectures 1994*. Edited by Olwen Hufton. Basic Books, 1995. ISBN: 9780465030767.
 
-Donnelly, Jack. "The Social Construction of International Human Rights." Chapter 2 in *Human Rights in Global Politics*. Edited by Tim Dunne and Nicholas J. Wheeler. Cambridge University Press, 1999. ISBN: 9780521646437. \[Preview with {{% resource_link "d47ee725-74e0-4b63-a544-6a49e2ba302a" "Google Books" %}}\]
+Donnelly, Jack. "The Social Construction of International Human Rights." Chapter 2 in *Human Rights in Global Politics*. Edited by Tim Dunne and Nicholas J. Wheeler. Cambridge University Press, 1999. ISBN: 9780521646437. \[Preview with [Google Books](http://books.google.com/books?id=pEyj-pG3AP8C&pg=PA71#v=onepage)\]
 
 ———. "Human Rights and Western Liberalism." Chapter 5 in *Universal Human Rights in Theory and Practice*. Cornell University Press, 1989.
 
 *Optional Reference Material*
 
-"{{% resource_link "6a80312e-30d4-4ab0-9d5f-b82de9605961" "International Covenant on Economic, Social, and Cultural Rights" %}}," United Nations Human Rights.
+"[International Covenant on Economic, Social, and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/cescr.aspx)," United Nations Human Rights.
 
-"{{% resource_link "0c57bd20-077b-48ed-a626-4e2857536ab9" "International Covenant on Civil and Political Rights" %}}," United Nations Human Rights.
+"[International Covenant on Civil and Political Rights](http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx)," United Nations Human Rights.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -101,15 +101,15 @@ Donnelly, Jack. "The Social Construction of International Human Rights." Chapter
 Universalism versus Cultural Relativism
 {{< tdclose >}}{{< tdopen >}}
 
-Executive Board of the American Anthropological Association. "{{% resource_link "84670e65-4a52-49c3-aaed-18d782c54330" "Statement on Human Rights" %}}." *American Anthropologist* 49, no. 4 (1947): 539–43.
+Executive Board of the American Anthropological Association. "[Statement on Human Rights](http://www.jstor.org/stable/662893)." *American Anthropologist* 49, no. 4 (1947): 539–43.
 
-"{{% resource_link "c061078e-3272-4b55-be05-34ba68415ccd" "Declaration on Anthropology and Human Rights" %}}," American Anthropological Association.
+"[Declaration on Anthropology and Human Rights](http://www.aaanet.org/about/Policies/statements/Declaration-on-Anthropology-and-Human-Rights.cfm)," American Anthropological Association.
 
-An-Na'im, Abdullahi Ahmed. "Toward a Cross-Cultural Approach to Defining International Standards of Human Rights: The Meaning of Cruel, Inhuman, or Degrading Treatment or Punishment." Chapter 1 in *Human Rights in Cross-Cultural Perspectives: A Quest for Consensus*. University of Pennsylvania Press, 1995. ISBN: 9780812215687. \[Preview with {{% resource_link "b7418894-2038-47b0-9c48-a9ad0657a170" "Google Books" %}}\]
+An-Na'im, Abdullahi Ahmed. "Toward a Cross-Cultural Approach to Defining International Standards of Human Rights: The Meaning of Cruel, Inhuman, or Degrading Treatment or Punishment." Chapter 1 in *Human Rights in Cross-Cultural Perspectives: A Quest for Consensus*. University of Pennsylvania Press, 1995. ISBN: 9780812215687. \[Preview with [Google Books](http://books.google.com/books?id=hLohHRUrY54C&pg=PA19#v=onepage)\]
 
-Walley, Christine J. "{{% resource_link "cfff8f9a-dbf0-4ff6-a788-633ddaa8a59e" "Searching for 'Voices': Feminism, Anthropology, and the Global Debate over Female Genital Operations" %}}." *Cultural Anthropology* 12, no. 3 (1997): 405–38.
+Walley, Christine J. "[Searching for 'Voices': Feminism, Anthropology, and the Global Debate over Female Genital Operations](http://dx.doi.org/10.1525/can.1997.12.3.405)." *Cultural Anthropology* 12, no. 3 (1997): 405–38.
 
-Mutua, Makau W. "{{% resource_link "1db4f6bc-948e-4c16-a8b1-d86ff9905121" "Savages, Victims, and Saviors: The Metaphor of Human Rights" %}}." *Harvard International Law Journal* 42, no. 1 (2001): 201–45.
+Mutua, Makau W. "[Savages, Victims, and Saviors: The Metaphor of Human Rights](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1525547)." *Harvard International Law Journal* 42, no. 1 (2001): 201–45.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Three: The Practice of Human Rights**
@@ -155,7 +155,7 @@ Sex and Gender Violence in Ireland
 
 \[A\] Afterword.
 
-"{{% resource_link "ac956067-c27c-432c-a7a6-aab0a6ec28fd" "Convention on the Elimination of All Forms of Discrimination against Women" %}}," UN Women, United Nations.
+"[Convention on the Elimination of All Forms of Discrimination against Women](http://www.un.org/womenwatch/daw/cedaw/text/econvention.htm)," UN Women, United Nations.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -237,12 +237,12 @@ Haiti, Part 2 and Course Conclusion
 
 The following films were required viewing for this course.
 
-{{% resource_link "c54b6d48-bc1d-4769-b2dd-c82bf6646fb3" "*Las madres de la Plaza De Mayo*" %}}. Directed by Susanna Blaustein Muñoz and Lourdes Portillo. Color, 64 min. 1985.
+[*Las madres de la Plaza De Mayo*](http://www.imdb.com/title/tt0089460/?ref_=ttrel_rel_tt). Directed by Susanna Blaustein Muñoz and Lourdes Portillo. Color, 64 min. 1985.
 
-{{% resource_link "d31e8f07-c419-4c20-9e07-47b1767d8a29" "*Long Night's Journey into Day: South Africa's Search for Truth & Reconciliation*" %}}. Directed by Deborah Hoffman and Frances Reid. Color, 94 min. 2000.
+[*Long Night's Journey into Day: South Africa's Search for Truth & Reconciliation*](http://www.imdb.com/title/tt0236447/?ref_=fn_al_tt_1). Directed by Deborah Hoffman and Frances Reid. Color, 94 min. 2000.
 
-{{% resource_link "1b283c70-c6c6-4582-aa54-018c6b599f58" "*My Neighbor, My Killer*" %}}. Directed by Anne Aghion. Color, 80 min. 2009.
+[*My Neighbor, My Killer*](http://www.imdb.com/title/tt1400357/?ref_=fn_al_tt_1). Directed by Anne Aghion. Color, 80 min. 2009.
 
-{{% resource_link "bea69b89-4633-4606-bf0b-c072ac5bd602" "*Pote Mak Sonje: The Raboteau Trial*" %}}. Directed by Harriet Hirshorn and Christine Cynn. Work in progress.
+[*Pote Mak Sonje: The Raboteau Trial*](http://www.ijdh.org/2010/01/topics/politics-democracy/institute-for-justice-democracy-in-haiti-home-370/). Directed by Harriet Hirshorn and Christine Cynn. Work in progress.
 
-{{% resource_link "a7672f80-2dbb-4345-861d-2ec963332875" "*The Specialist*" %}}. Directed by Eyal Sivan. Black & White, 128 min. 1999.
+[*The Specialist*](http://www.imdb.com/title/tt0189172/?ref_=fn_al_tt_4). Directed by Eyal Sivan. Black & White, 128 min. 1999.
